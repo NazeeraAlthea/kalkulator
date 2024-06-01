@@ -63,7 +63,7 @@
     color: rgb(26, 27, 27);
 }
 
-@media only screen and (min-width: 768px){
+@media only screen and (min-width: 500px){
     .luar{
         display: flex;
         justify-content: center;
